@@ -4,10 +4,20 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:0D0D0D,100:2D1B69&text=%3E%20status:%20active%20%7C%20target:%20acquired%20%7C%20noise:%20zero&fontSize=14&fontColor=C084FC&animation=blinking&fontAlign=50&fontAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:0D0D0D,100:1a0a3d&text=%3E%20status:%20active&fontSize=13&fontColor=C084FC&animation=twinkling&fontAlign=50&fontAlignY=55" width="100%"/>
 </p>
 
-*The threat doesn't announce itself. Neither do I.* ⬡
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:0D0D0D,100:1a0a3d&text=%3E%20target:%20acquired&fontSize=13&fontColor=C084FC&animation=twinkling&fontAlign=50&fontAlignY=55" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:0D0D0D,100:1a0a3d&text=%3E%20noise:%20zero&fontSize=13&fontColor=C084FC&animation=twinkling&fontAlign=50&fontAlignY=55" width="100%"/>
+</p>
+
+*Bet on curiosity. Precise by choice. Different by design.*
+
+*Haven't lost yet.*
 
 ## ![Security Operations](https://img.shields.io/badge/Security_Operations-2D1B69?style=flat-square&logoColor=white)
 
@@ -63,9 +73,9 @@ Deployed component-by-component. Documented completely — correct steps, real e
 
 ## ![Connect](https://img.shields.io/badge/Connect-2D1B69?style=flat-square&logoColor=white)
 
-⬡ [![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2FBE?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kk117) — Background's there, if you're curious.
+· [![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2FBE?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kk117) — Background's there, if you're curious.
 
-⬡ [![GitHub](https://img.shields.io/badge/GitHub-2D1B69?style=flat-square&logo=github&logoColor=white)](https://github.com/MrFixer-02) — Work's all here. Take a look.
+· [![GitHub](https://img.shields.io/badge/GitHub-2D1B69?style=flat-square&logo=github&logoColor=white)](https://github.com/MrFixer-02) — Work's all here. Take a look.
 
 ---
-<sub><i>"Anyway, that's it." — Iso ⬡</i></sub>
+<sub><i>"Anyway, that's it." — Iso</i></sub>
