@@ -3,16 +3,10 @@
   <img src="header.svg" alt="Komal Kakarla" width="100%"/>
 </p>
 
-<!-- Terminal status bars -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=32&color=0:0D0D0D,100:1a0a3d&text=%3E%20status:%20active&fontSize=12&fontColor=C084FC&animation=twinkling&fontAlign=17&fontAlignY=55" width="100%"/>
+  <img src="terminal_bar.gif" width="100%"/>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=32&color=0:0D0D0D,100:1a0a3d&text=%3E%20target:%20acquired&fontSize=12&fontColor=C084FC&animation=twinkling&fontAlign=17&fontAlignY=55" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=32&color=0:0D0D0D,100:1a0a3d&text=%3E%20noise:%20zero&fontSize=12&fontColor=C084FC&animation=twinkling&fontAlign=14&fontAlignY=55" width="100%"/>
-</p>
+
 
 *Started with questions. Went down the rabbit hole.*
 
