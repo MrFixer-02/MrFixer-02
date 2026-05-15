@@ -3,7 +3,9 @@
   <img src="header.svg" alt="Komal Kakarla" width="100%"/>
 </p>
 
-*Bet on curiosity. Haven't lost yet.* ⚡
+*Started with questions. Went down the rabbit hole.*
+
+*Ended up building the defense at the bottom. Still digging.*
 
 ## ![Security Operations](https://img.shields.io/badge/Security_Operations-2D1B69?style=flat-square&logoColor=white)
 
