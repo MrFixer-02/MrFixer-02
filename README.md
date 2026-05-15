@@ -3,49 +3,55 @@
   <img src="header.svg" alt="Komal Kakarla" width="100%"/>
 </p>
 
-B.Tech CSE student building real security infrastructure — not just studying it.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:0D0D0D,100:2D1B69&text=%3E%20status:%20active%20%7C%20target:%20acquired%20%7C%20noise:%20zero&fontSize=14&fontColor=C084FC&animation=blinking&fontAlign=50&fontAlignY=55" width="100%"/>
+</p>
+
+*The threat doesn't announce itself. Neither do I.* ⬡
 
 ## ![Security Operations](https://img.shields.io/badge/Security_Operations-2D1B69?style=flat-square&logoColor=white)
 
 Here's what I've actually built and worked with:
 
-- **SIEM**
+- **SIEM:**
   ![Wazuh](https://img.shields.io/badge/Wazuh-7B2FBE?style=flat-square&logoColor=white)
 
-- **Monitoring & Detection**
+- **Monitoring & Detection:**
   ![Nmap](https://img.shields.io/badge/Nmap-4A1A8C?style=flat-square&logoColor=white)
   ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-5B21B6?style=flat-square&logoColor=white)
   ![Threat Detection](https://img.shields.io/badge/Threat_Detection-6D28D9?style=flat-square&logoColor=white)
 
-- **Systems**
+- **Systems:**
   ![Linux](https://img.shields.io/badge/Linux-1E1B4B?style=flat-square&logo=linux&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-2D1B69?style=flat-square&logo=ubuntu&logoColor=white)
   ![SSH](https://img.shields.io/badge/SSH-3B1F8C?style=flat-square&logoColor=white)
 
-- **Virtualization**
+- **Virtualization:**
   ![UTM QEMU](https://img.shields.io/badge/UTM_QEMU-4C1D95?style=flat-square&logoColor=white)
   ![ARM64](https://img.shields.io/badge/ARM64-5B21B6?style=flat-square&logoColor=white)
 
-- **Networking**
+- **Networking:**
   ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-2D1B69?style=flat-square&logoColor=white)
   ![OSI Model](https://img.shields.io/badge/OSI_Model-3B1F8C?style=flat-square&logoColor=white)
   ![NAT](https://img.shields.io/badge/NAT-4A1A8C?style=flat-square&logoColor=white)
 
 ## ![Code](https://img.shields.io/badge/Code-2D1B69?style=flat-square&logoColor=white)
 
-- **Languages**
+- **Languages:**
   ![Python](https://img.shields.io/badge/Python-7B2FBE?style=flat-square&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/C-5B21B6?style=flat-square&logo=c&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4C1D95?style=flat-square&logo=gnubash&logoColor=white)
 
-- **Tools**
+- **Tools:**
   ![Git](https://img.shields.io/badge/Git-6D28D9?style=flat-square&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-2D1B69?style=flat-square&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-5B21B6?style=flat-square&logo=visualstudiocode&logoColor=white)
+  ![Vim](https://img.shields.io/badge/Vim-4C1D95?style=flat-square&logo=vim&logoColor=white)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-3B1F8C?style=flat-square&logo=wireshark&logoColor=white)
 
 ## ![Projects](https://img.shields.io/badge/Projects-2D1B69?style=flat-square&logoColor=white)
 
-**esc**
-Self-hosted SOC environment on Apple Silicon — full Wazuh stack, isolated network, live alert detection.
+**esc —** self-hosted SOC environment on Apple Silicon. Full Wazuh stack, isolated network, live alert detection.
 Deployed component-by-component. Documented completely — correct steps, real errors, working fixes. Nothing hidden.
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-7B2FBE?style=flat-square&logoColor=white)
@@ -55,14 +61,11 @@ Deployed component-by-component. Documented completely — correct steps, real e
 ![SSL](https://img.shields.io/badge/SSL%2FTLS-6D28D9?style=flat-square&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-1E1B4B?style=flat-square&logo=linux&logoColor=white)
 
-## ![Education](https://img.shields.io/badge/Education-2D1B69?style=flat-square&logoColor=white)
-
-**B.Tech — Computer Science Engineering**
-
 ## ![Connect](https://img.shields.io/badge/Connect-2D1B69?style=flat-square&logoColor=white)
 
-💼 [LinkedIn](https://www.linkedin.com/in/kk117) — Background's there, if you're curious.
-📁 [GitHub](https://github.com/MrFixer-02) — Work's all here. Take a look.
+⬡ [![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2FBE?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kk117) — Background's there, if you're curious.
+
+⬡ [![GitHub](https://img.shields.io/badge/GitHub-2D1B69?style=flat-square&logo=github&logoColor=white)](https://github.com/MrFixer-02) — Work's all here. Take a look.
 
 ---
-<sub><i>"Anyway, that's it."</i></sub>
+<sub><i>"Anyway, that's it." — Iso ⬡</i></sub>
