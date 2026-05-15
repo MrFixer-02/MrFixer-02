@@ -1,64 +1,98 @@
-# Komal Kakarla
+<!-- Header -->
+<p align="center">
+  <img src="header.svg" alt="Komal Kakarla" width="100%"/>
+</p>
 
-> *Isolated. Focused. Precise.*
+<br/>
+
+B.Tech CSE student building real security infrastructure —
+not just studying it.
+
+<br/>
+
+## ![Security Operations](https://img.shields.io/badge/Security_Operations-2D1B69?style=flat-square&logoColor=white)
+
+Here's what I've actually built and worked with:
+
+- **SIEM**
+
+  ![Wazuh](https://img.shields.io/badge/Wazuh-7B2FBE?style=flat-square&logoColor=white)
+
+- **Monitoring & Detection**
+
+  ![Nmap](https://img.shields.io/badge/Nmap-4A1A8C?style=flat-square&logoColor=white)
+  ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-5B21B6?style=flat-square&logoColor=white)
+  ![Threat Detection](https://img.shields.io/badge/Threat_Detection-6D28D9?style=flat-square&logoColor=white)
+
+- **Systems**
+
+  ![Linux](https://img.shields.io/badge/Linux-1E1B4B?style=flat-square&logo=linux&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-2D1B69?style=flat-square&logo=ubuntu&logoColor=white)
+  ![SSH](https://img.shields.io/badge/SSH-3B1F8C?style=flat-square&logoColor=white)
+
+- **Virtualization**
+
+  ![UTM QEMU](https://img.shields.io/badge/UTM_QEMU-4C1D95?style=flat-square&logoColor=white)
+  ![ARM64](https://img.shields.io/badge/ARM64-5B21B6?style=flat-square&logoColor=white)
+
+- **Networking**
+
+  ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-2D1B69?style=flat-square&logoColor=white)
+  ![OSI Model](https://img.shields.io/badge/OSI_Model-3B1F8C?style=flat-square&logoColor=white)
+  ![NAT](https://img.shields.io/badge/NAT-4A1A8C?style=flat-square&logoColor=white)
+
+<br/>
+
+## ![Code](https://img.shields.io/badge/Code-2D1B69?style=flat-square&logoColor=white)
+
+- **Languages**
+
+  ![Python](https://img.shields.io/badge/Python-7B2FBE?style=flat-square&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-5B21B6?style=flat-square&logo=c&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4C1D95?style=flat-square&logo=gnubash&logoColor=white)
+
+- **Tools**
+
+  ![Git](https://img.shields.io/badge/Git-6D28D9?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-2D1B69?style=flat-square&logo=github&logoColor=white)
+
+<br/>
+
+## ![Projects](https://img.shields.io/badge/Projects-2D1B69?style=flat-square&logoColor=white)
+
+**esc**
+
+Self-hosted SOC environment built from scratch on MacBook Pro M5 (Apple Silicon).
+
+Full Wazuh stack deployed manually — Indexer, Manager, Filebeat, Dashboard.
+Isolated lab network with SSL certificates and live alert detection.
+
+Documented completely — correct steps, real errors, working fixes.
+Nothing hidden. Everything reproducible.
+
+![Wazuh](https://img.shields.io/badge/Wazuh-7B2FBE?style=flat-square&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_22.04-2D1B69?style=flat-square&logo=ubuntu&logoColor=white)
+![UTM](https://img.shields.io/badge/UTM-4C1D95?style=flat-square&logoColor=white)
+![ARM64](https://img.shields.io/badge/ARM64-5B21B6?style=flat-square&logoColor=white)
+![SSL](https://img.shields.io/badge/SSL%2FTLS-6D28D9?style=flat-square&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1E1B4B?style=flat-square&logo=linux&logoColor=white)
+
+<br/>
+
+## ![Education](https://img.shields.io/badge/Education-2D1B69?style=flat-square&logoColor=white)
+
+**B.Tech — Computer Science Engineering**
+
+<br/>
+
+## ![Connect](https://img.shields.io/badge/Connect-2D1B69?style=flat-square&logoColor=white)
+
+💼 [LinkedIn](https://www.linkedin.com/in/kk117) — Background's there, if you're curious.
+
+📁 [GitHub](https://github.com/MrFixer-02) — Work's all here. Take a look.
+
+<br/>
 
 ---
 
-**`Security` · `Defense` · `Detection`**
-
----
-
-I build security infrastructure from the ground up.
-No shortcuts. No abstractions. Just systems that work.
-
-Currently running a self-hosted SOC lab on Apple Silicon —
-full Wazuh stack, isolated network, real alerts.
-Documenting everything, hiding nothing.
-
----
-
-## What I Know
-
-**Security Operations**
-- SIEM deployment — Wazuh (Indexer · Manager · Filebeat · Dashboard)
-- Log analysis · alert triage · threat detection
-- MITRE ATT&CK framework · incident response fundamentals
-- Network scanning · reconnaissance (Nmap)
-
-**Systems**
-- Linux administration — Ubuntu Server
-- Virtualization — UTM / QEMU · ARM64
-- SSH · systemctl · apt · SSL/TLS certificates
-- TCP/IP · OSI · NAT · DHCP · ports · protocols
-
-**Code**
-- Python · C · Bash
-
----
-
-## Work
-
-**[SOC Home Lab](https://github.com/MrFixer-02/soc-home-lab)**
-Self-hosted SOC environment on MacBook Pro M5.
-Wazuh stack deployed component-by-component on ARM64 Ubuntu Server.
-Isolated lab network · SSL certificates · live alert detection.
-Full build documented — correct steps and every error fixed.
-
-`Wazuh` `Ubuntu Server` `UTM` `ARM64` `SSL/TLS` `Linux`
-
----
-
-## Education
-
-B.Tech — Computer Science Engineering
-
----
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kk117)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MrFixer-02)
-
----
-
-<sub>*The callsign was Iso. The work speaks.*</sub>
+<sub><i>"Anyway, that's it."</i></sub>
