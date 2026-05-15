@@ -3,21 +3,7 @@
   <img src="header.svg" alt="Komal Kakarla" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:0D0D0D,100:1a0a3d&text=%3E%20status:%20active&fontSize=13&fontColor=C084FC&animation=twinkling&fontAlign=50&fontAlignY=55" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:0D0D0D,100:1a0a3d&text=%3E%20target:%20acquired&fontSize=13&fontColor=C084FC&animation=twinkling&fontAlign=50&fontAlignY=55" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=36&color=0:0D0D0D,100:1a0a3d&text=%3E%20noise:%20zero&fontSize=13&fontColor=C084FC&animation=twinkling&fontAlign=50&fontAlignY=55" width="100%"/>
-</p>
-
-*Bet on curiosity. Precise by choice. Different by design.*
-
-*Haven't lost yet.*
+*Bet on curiosity. Haven't lost yet.* ⚡
 
 ## ![Security Operations](https://img.shields.io/badge/Security_Operations-2D1B69?style=flat-square&logoColor=white)
 
